@@ -1,0 +1,6 @@
+framework module Pods_CourseProject_EII {
+  umbrella header "Pods-CourseProject_EII-umbrella.h"
+
+  export *
+  module * { export * }
+}
